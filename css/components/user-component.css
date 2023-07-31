@@ -11,6 +11,9 @@
 .user-component {
   margin-bottom: 30px;
 }
+.user-component:last-child {
+  margin-bottom: 0;
+}
 
 .user-component__avatar {
   width: 70px;
