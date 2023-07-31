@@ -122,6 +122,12 @@
   flex-direction: row-reverse;
 }
 
+.message__image {
+  width: 200px;
+  height: 120px;
+  border-radius: 0;
+}
+
 .reply {
   position: fixed;
   bottom: 0;
